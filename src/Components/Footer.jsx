@@ -20,9 +20,9 @@ function Footer() {
                     <Col lg={4} md={4} sm={12}>
                         <h3>Contact Us</h3>
                         <p>
-                            Address: 123 Main St, City, Country<br />
-                            Phone: (123) 456-7890<br />
-                            Email: info@example.com
+                            Address: 123 street, rajasthan, india<br />
+                            Phone: +91 123 456-7890 <br />
+                            Email: CoreFares@example.com
                         </p>
                     </Col>
                     <Col lg={4} md={4} sm={12}>
